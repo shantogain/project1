@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-section{
+    height: 100vh;
+    background-image: url(/elements/img/banner/banner-bg.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+span{
+    color: chartreuse;
+}
+.tex-white{
+    padding-top: 10px;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 10px;
+}
+.feature-area__list-1{
+    border: 1px solid #4b4b4b;
+}
+.feature-area__list-2{
+    border: 1px solid #4b4b4b;
+}
+
+.feature-area__list-3{
+    border: 1px solid #4b4b4b;
+}
+
+.feature-area__list-4{
+    border: 1px solid #4b4b4b;
+}
+
+
+
+.feature-area{
+    text-align: center;
+    
+}
